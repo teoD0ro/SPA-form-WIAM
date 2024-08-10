@@ -4,8 +4,7 @@
 
 ## Ссылка на проект
 
-
-
+https://66b7da75a67c729a68e3ac41--warm-beignet-0acdf3.netlify.app/
 
 ## Доп. библиотеки
 
